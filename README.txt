@@ -1,8 +1,8 @@
 To run: 
--unzip folder
 -from command line:
 	enter:
-		cd "." (where . represents the path to the folder)
+		cd "." (where . represents the path to the folder containing SpiderSolitaire.exe)
+	then enter:
 		SpiderSolitaire
 
 This is a version of Spider Solitaire, a variant of Solitaire made popular by its inclusion in some versions of Windows.
@@ -30,8 +30,7 @@ Commands used:
 
 (move): this puts you into "move mode," where you will be prompted to enter row and column numbers to move cards around.
 
-	(number): type a number when prompted to select a row or a 	column. Typing -1 at any time will take you back to the 	option selection screen.
-
+(number): type a number when prompted to select a row or a column. Typing -1 at any time will take you back to the option selection screen.
 
 (deal): this deals out a card to every column. This may be done only 5 times, and the game will inform you how many shuffles remain. 
 
